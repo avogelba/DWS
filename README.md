@@ -11,12 +11,12 @@ RUS:
 
 ENG:
 
-Hello. Since you here, means that you are looking for a new version of DWS? How you see, it's absent yet, and sources are raw and there are not ready for usage.
-The project is not abounded (State since 04/30/2016). I just have no time to work closely with it.
-We will glad if you would help us to build a new version.
-If you are asking, Why we have published that? Because carry a release date has become ashamed, and we want to show that development still in process and we are not forgetting about you.
+Hello. Since you are here you must be looking for a new DWS version. As you can see, it is not available yet and the source code is not ready for use.
+The project is not abandoned (as of  30 Apr 2016). I just don't have time to work closely on it.
+We would be grateful if you could help us develop a new version.
+Wonder why we published this project? Because further delaying a release date became too embarrassing so we want to demonstrate that the development still in progress. We have not forgotten about you.
 
-Waiting your suggestions and commits =)
+Looking forward to your suggestions and commits =)
 
 SPA:
 
